@@ -1,0 +1,9 @@
+/* 
+*** adhamlin, a.k.a., Hamberfim
+*** (C) 2018
+*** Lic. MIT
+*/
+/* css to modifiy bulma for granular control */
+.is-circular {
+    border-radius: 50%;
+} 
